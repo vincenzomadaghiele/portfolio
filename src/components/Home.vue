@@ -24,18 +24,18 @@
             <div class="col-5"></div>
             <div class="col">
                 <br>
-                <h3>Vincenzo Madaghiele</h3>
+                <h3><strong>Vincenzo Madaghiele</strong></h3>
                 <h5 class="text-secondary">[Music / Nature / Code]</h5>
             </div>
         </div>
         <div id="work">
-        <br><br><br>
+        <br><br>
         <div class="row text-center">
             <div class="col-3">
                 <div class="position-relative pic">
                     <img src="../assets/mingus.jpg" class="img-fluid my-3" alt="Responsive image">
                     <a href="https://github.com/vincenzomadaghiele/MINGUS" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
-                    <h5>MINGUS</h5>
+                    <h5><strong>MINGUS</strong></h5>
                     </a>
                     <p class="text-secondary">
                         Transformer deep neural network for jazz music modeling and generation
@@ -46,7 +46,7 @@
                 <div class="position-relative pic">
                 <img src="../assets/biodiversity.png" class="img-fluid my-3" alt="Responsive image">
                 <a href="https://github.com/vincenzomadaghiele/Regression-of-biodiversity-indicators" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
-                    <h5>Regression of biodiversity species richness</h5>
+                    <h5><strong>Regression of biodiversity species richness</strong></h5>
                 </a>
                 <p class="text-secondary ">
                     Measuring the species richness in forests from satellite observations
@@ -57,7 +57,7 @@
                 <div class="position-relative pic">
                 <img src="../assets/meditation.png" class="img-fluid my-3" alt="Responsive image">
                 <a href="https://github.com/vincenzomadaghiele/Meditation-machine" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
-                    <h5>Meditation Machine</h5>
+                    <h5><strong>Meditation Machine</strong></h5>
                 </a>
                 <p class="text-secondary">
                     Sonification of a particle system with a granular synthesizer
@@ -68,7 +68,7 @@
                 <div class="position-relative pic">
                 <img src="../assets/music.jpg" class="img-fluid my-3" alt="Responsive image">
                 <a href="https://soundcloud.com/vincenzo-madaghiele" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
-                    <h5>Short compositions</h5>
+                    <h5><strong>Short compositions</strong></h5>
                 </a>
                 <p class="text-secondary">My music</p>
                 </div>
@@ -80,7 +80,7 @@
                 <div class="position-relative pic">
                 <img src="../assets/goldfish2.png" class="img-fluid my-3" alt="Responsive image">
                 <a href="https://drive.google.com/drive/folders/1PyN-m7A7hWVaCYv9jLPslvot5T1rKrsk" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
-                    <h5>Revenge of the Goldfish</h5>
+                    <h5><strong>Revenge of the Goldfish</strong></h5>
                 </a>
                 <p class="text-secondary">
                     3D reconstruction of a picture by Sandy Skoglund
@@ -91,7 +91,7 @@
                 <div class="position-relative pic">
                 <img src="../assets/leaf.jpg" class="img-fluid my-3" alt="Responsive image">
                 <a href="https://github.com/tommasocarluccio/IOT_Leaf" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
-                    <h5>LEAF</h5>
+                    <h5><strong>LEAF</strong></h5>
                 </a>
                 <p class="text-secondary">
                     IoT sensor for air quality measuring in home environment
@@ -102,7 +102,7 @@
                 <div class="position-relative pic">
                 <img src="../assets/shop.png" class="img-fluid my-3" alt="Responsive image">
                 <a href="https://github.com/tommasocarluccio/2020_ORTA_ShopOrderingProblem" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
-                    <h5>Shop Ordering Problem</h5>
+                    <h5><strong>Shop Ordering Problem</strong></h5>
                 </a>
                 <p class="text-secondary">
                     Operational Research LP mathematical model
@@ -113,7 +113,7 @@
                 <div class="position-relative pic">
                 <img src="../assets/photos.jpg" class="img-fluid my-3" alt="Responsive image">
                 <a href="https://www.instagram.com/vincenzo_madaghiele/" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
-                    <h5>Pictures</h5>
+                    <h5><strong>Pictures</strong></h5>
                 </a>
                 <p class="text-secondary">
                     Travel photographs
@@ -171,6 +171,16 @@ export default {
 </script>
 
 <style>
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+html, body {
+  font-family: 'Raleway', sans-serif;
+}
+
+#app {
+  font-family: 'Raleway', sans-serif;
+}
+
 html {
   scroll-behavior: smooth;
 }

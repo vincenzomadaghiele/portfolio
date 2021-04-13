@@ -119,6 +119,7 @@
             </div>
             <div class="col-6">
                 <h4>Contact</h4>
+                <p>Linkedin</p>
             </div>
             <div class="col-3">
             </div>

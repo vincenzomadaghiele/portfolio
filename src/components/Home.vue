@@ -1,14 +1,12 @@
 <template>
 <!-- eslint-disable max-len -->
     <div class="container">
-        <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-white">
+        <nav class="navbar sticky-top navbar-expand-sm navbar-light bg-white">
         <a class="navbar-brand" href="#work">work</a>
         <a class="navbar-brand" href="#contact">contact</a>
-        <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+        <a class="nav-link text-muted" href="https://raw.githubusercontent.com/vincenzomadaghiele/portfolio/master/Vincenzo%20Madaghiele%20CV.pdf" target="_blank" rel="noopener noreferrer">CV</a>
+        <div class="collapse navbar-collapse" id="navbar-content">
             <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-            <li class="nav-item">
-                <a class="nav-link" href="https://raw.githubusercontent.com/vincenzomadaghiele/portfolio/master/Vincenzo%20Madaghiele%20CV.pdf" target="_blank" rel="noopener noreferrer">CV</a>
-            </li>
             </ul>
             <a class="navbar-text active" href="#">
                 Vincenzo Madaghiele
@@ -17,21 +15,23 @@
         </nav>
         <br>
         <div class="row text-center" >
-            <div class="col-5"></div>
-            <div class="col-2">
+            <div class="col-lg-5 col-sm-4 col-3"></div>
+            <div class="col-lg-2 col-sm-4 col-6">
                 <img src="../assets/profile_photo.jpg" class="img-fluid" alt="Responsive image" style="border-radius: 50%">
             </div>
-            <div class="col-5"></div>
-            <div class="col">
+            <div class="col-lg-5 col-sm-4 col-3"></div>
+            <div class="col-md-0 col-1"></div>
+            <div class="col-10">
                 <br>
                 <h3><strong>Vincenzo Madaghiele</strong></h3>
                 <h5 class="text-secondary">[Music / Nature / Code]</h5>
             </div>
+            <div class="col-md-0 col-1"></div>
         </div>
         <div id="work">
         <br><br>
         <div class="row text-center">
-            <div class="col-3">
+            <div class="col-12 col-lg-3 col-sm-4 my-2">
                 <div class="position-relative pic">
                     <img src="../assets/mingus.jpg" class="img-fluid my-3" alt="Responsive image">
                     <a href="https://github.com/vincenzomadaghiele/MINGUS" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
@@ -42,7 +42,7 @@
                     </p>
                 </div>
             </div>
-            <div class="col-3">
+            <div class="col-12 col-lg-3 col-sm-4 my-2">
                 <div class="position-relative pic">
                 <img src="../assets/biodiversity.png" class="img-fluid my-3" alt="Responsive image">
                 <a href="https://github.com/vincenzomadaghiele/Regression-of-biodiversity-indicators" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
@@ -53,7 +53,7 @@
                 </p>
                 </div>
             </div>
-            <div class="col-3">
+            <div class="col-12 col-lg-3 col-sm-4 my-2">
                 <div class="position-relative pic">
                 <img src="../assets/meditation.png" class="img-fluid my-3" alt="Responsive image">
                 <a href="https://github.com/vincenzomadaghiele/Meditation-machine" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
@@ -64,7 +64,7 @@
                 </p>
                 </div>
             </div>
-            <div class="col-3">
+            <div class="col-12 col-lg-3 col-sm-4 my-2">
                 <div class="position-relative pic">
                 <img src="../assets/music.jpg" class="img-fluid my-3" alt="Responsive image">
                 <a href="https://soundcloud.com/vincenzo-madaghiele" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
@@ -73,10 +73,7 @@
                 <p class="text-secondary">My music</p>
                 </div>
             </div>
-        </div>
-        <br>
-        <div class="row text-center">
-            <div class="col-3">
+            <div class="col-12 col-lg-3 col-sm-4 my-2">
                 <div class="position-relative pic">
                 <img src="../assets/goldfish2.png" class="img-fluid my-3" alt="Responsive image">
                 <a href="https://drive.google.com/drive/folders/1PyN-m7A7hWVaCYv9jLPslvot5T1rKrsk" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
@@ -87,7 +84,7 @@
                 </p>
                 </div>
             </div>
-            <div class="col-3">
+            <div class="col-12 col-lg-3 col-sm-4 my-2">
                 <div class="position-relative pic">
                 <img src="../assets/leaf.jpg" class="img-fluid my-3" alt="Responsive image">
                 <a href="https://github.com/tommasocarluccio/IOT_Leaf" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
@@ -98,7 +95,7 @@
                 </p>
                 </div>
             </div>
-            <div class="col-3">
+            <div class="col-12 col-lg-3 col-sm-4 my-2">
                 <div class="position-relative pic">
                 <img src="../assets/shop.png" class="img-fluid my-3" alt="Responsive image">
                 <a href="https://github.com/tommasocarluccio/2020_ORTA_ShopOrderingProblem" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
@@ -109,7 +106,7 @@
                 </p>
                 </div>
             </div>
-            <div class="col-3">
+            <div class="col-12 col-lg-3 col-sm-4 my-2">
                 <div class="position-relative pic">
                 <img src="../assets/photos.jpg" class="img-fluid my-3" alt="Responsive image">
                 <a href="https://www.instagram.com/vincenzo_madaghiele/" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
@@ -126,9 +123,9 @@
     <br>
     <div id="contact">
         <div class="row text-center">
-            <div class="col-3">
+            <div class="col-md-3 col-0">
             </div>
-            <div class="col-6">
+            <div class="col-md-6 col-12">
                 <h4>Contact</h4><br>
                 <h6>email:
                 <a href = "mailto: vincenzo.madaghiele@gmail.com" class="text-dark" target="_blank" rel="noopener noreferrer">
@@ -150,7 +147,7 @@
                 <font-awesome-icon :icon="['fab', 'vimeo-v']" size="2x" class="cursor-change m-3 p-1" />
                 </a>
             </div>
-            <div class="col-3">
+            <div class="col-md-3 col-0">
             </div>
         </div>
     </div>

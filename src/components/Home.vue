@@ -23,14 +23,13 @@
             </div>
             <div class="col-5"></div>
             <div class="col">
-                <br><br>
+                <br>
                 <h3>Vincenzo Madaghiele</h3>
                 <h5 class="text-secondary">[Music / Nature / Code]</h5>
             </div>
         </div>
-        <br><br>
         <div id="work">
-        <br><br>
+        <br><br><br>
         <div class="row text-center">
             <div class="col-3">
                 <div class="position-relative pic">
@@ -110,22 +109,52 @@
                 </p>
                 </div>
             </div>
+            <div class="col-3">
+                <div class="position-relative pic">
+                <img src="../assets/photos.jpg" class="img-fluid my-3" alt="Responsive image">
+                <a href="https://www.instagram.com/vincenzo_madaghiele/" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
+                    <h5>Pictures</h5>
+                </a>
+                <p class="text-secondary">
+                    Travel photographs
+                </p>
+                </div>
+            </div>
         </div>
         <br><br>
-        </div>
+    </div>
+    <br>
     <div id="contact">
         <div class="row text-center">
             <div class="col-3">
             </div>
             <div class="col-6">
-                <h4>Contact</h4>
-                <p>Linkedin</p>
+                <h4>Contact</h4><br>
+                <h6>email:
+                <a href = "mailto: vincenzo.madaghiele@gmail.com" class="text-dark" target="_blank" rel="noopener noreferrer">
+                vincenzo.madaghiele@gmail.com
+                </a>
+                </h6>
+                <h6>linkedin:
+                <a href="https://www.linkedin.com/in/vincenzo-madaghiele/" class="text-dark" target="_blank" rel="noopener noreferrer">
+                vincenzo-madaghiele
+                </a>
+                </h6>
+                <a href="https://github.com/vincenzomadaghiele" class="text-dark" target="_blank" rel="noopener noreferrer">
+                <font-awesome-icon :icon="['fab', 'github']" size="2x" class="cursor-change m-3 p-1" />
+                </a>
+                <a href="https://www.instagram.com/vincenzo_madaghiele/" class="text-dark" target="_blank" rel="noopener noreferrer">
+                <font-awesome-icon :icon="['fab', 'instagram']" size="2x" class="cursor-change m-3 p-1" />
+                </a>
+                <a href="https://vimeo.com/user86737112" class="text-dark" target="_blank" rel="noopener noreferrer">
+                <font-awesome-icon :icon="['fab', 'vimeo-v']" size="2x" class="cursor-change m-3 p-1" />
+                </a>
             </div>
             <div class="col-3">
             </div>
         </div>
     </div>
-    <br><br>
+    <br><br><br>
 </div>
 </template>
 
@@ -142,12 +171,15 @@ export default {
 html {
   scroll-behavior: smooth;
 }
+.cursor-change {
+  cursor: pointer;
+}
 .pic img{
   opacity: 1;
   filter: alpha(opacity=100);
 }
 .pic:hover img{
-  opacity: 0.9;
+  opacity: 0.8;
   filter: alpha(opacity=30);
 }
 </style>

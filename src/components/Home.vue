@@ -164,6 +164,9 @@ export default {
   props: {
     msg: String,
   },
+  created() {
+    document.title = 'Vincenzo Madaghiele - portfolio';
+  },
 };
 </script>
 

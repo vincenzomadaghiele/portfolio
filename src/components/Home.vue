@@ -76,7 +76,7 @@
             <div class="col-12 col-lg-3 col-sm-4 my-2">
                 <div class="position-relative pic">
                 <img src="../assets/goldfish2.png" class="img-fluid my-3" alt="Responsive image">
-                <a href="https://drive.google.com/drive/folders/1PyN-m7A7hWVaCYv9jLPslvot5T1rKrsk" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
+                <a href="https://drive.google.com/drive/folders/1PyN-m7A7hWVaCYv9jLPslvot5T1rKrsk?usp=sharing" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
                     <h5><strong>Revenge of the Goldfish</strong></h5>
                 </a>
                 <p class="text-secondary">

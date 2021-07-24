@@ -33,7 +33,7 @@
         <div class="row text-center">
             <div class="col-12 col-lg-3 col-sm-4 my-2">
                 <div class="position-relative pic">
-                    <img src="../assets/mingus.jpg" class="img-fluid my-3" alt="Responsive image">
+                    <img src="../assets/mingus_comp.jpg" class="img-fluid my-3" alt="Responsive image">
                     <a href="https://github.com/vincenzomadaghiele/MINGUS" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
                     <h5><strong>MINGUS</strong></h5>
                     </a>
@@ -44,7 +44,7 @@
             </div>
             <div class="col-12 col-lg-3 col-sm-4 my-2">
                 <div class="position-relative pic">
-                <img src="../assets/biodiversity.png" class="img-fluid my-3" alt="Responsive image">
+                <img src="../assets/biodiversity_comp.png" class="img-fluid my-3" alt="Responsive image">
                 <a href="https://github.com/vincenzomadaghiele/Regression-of-biodiversity-indicators" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
                     <h5><strong>Regression of biodiversity species richness</strong></h5>
                 </a>
@@ -55,7 +55,7 @@
             </div>
             <div class="col-12 col-lg-3 col-sm-4 my-2">
                 <div class="position-relative pic">
-                <img src="../assets/meditation.png" class="img-fluid my-3" alt="Responsive image">
+                <img src="../assets/meditation_comp.png" class="img-fluid my-3" alt="Responsive image">
                 <a href="https://github.com/vincenzomadaghiele/Meditation-machine" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
                     <h5><strong>Meditation Machine</strong></h5>
                 </a>
@@ -66,7 +66,7 @@
             </div>
             <div class="col-12 col-lg-3 col-sm-4 my-2">
                 <div class="position-relative pic">
-                <img src="../assets/music.jpg" class="img-fluid my-3" alt="Responsive image">
+                <img src="../assets/music_comp.jpg" class="img-fluid my-3" alt="Responsive image">
                 <a href="https://soundcloud.com/vincenzo-madaghiele" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
                     <h5><strong>Sound experiments</strong></h5>
                 </a>
@@ -75,7 +75,7 @@
             </div>
             <div class="col-12 col-lg-3 col-sm-4 my-2">
                 <div class="position-relative pic">
-                <img src="../assets/goldfish2.png" class="img-fluid my-3" alt="Responsive image">
+                <img src="../assets/goldfish2_comp.png" class="img-fluid my-3" alt="Responsive image">
                 <a href="https://drive.google.com/drive/folders/1PyN-m7A7hWVaCYv9jLPslvot5T1rKrsk?usp=sharing" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
                     <h5><strong>Revenge of the Goldfish</strong></h5>
                 </a>
@@ -97,7 +97,7 @@
             </div>
             <div class="col-12 col-lg-3 col-sm-4 my-2">
                 <div class="position-relative pic">
-                <img src="../assets/shop.png" class="img-fluid my-3" alt="Responsive image">
+                <img src="../assets/shop_comp.png" class="img-fluid my-3" alt="Responsive image">
                 <a href="https://github.com/tommasocarluccio/2020_ORTA_ShopOrderingProblem" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
                     <h5><strong>Shop Ordering Problem</strong></h5>
                 </a>

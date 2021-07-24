@@ -68,7 +68,7 @@
                 <div class="position-relative pic">
                 <img src="../assets/music.jpg" class="img-fluid my-3" alt="Responsive image">
                 <a href="https://soundcloud.com/vincenzo-madaghiele" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
-                    <h5><strong>Short compositions</strong></h5>
+                    <h5><strong>Sound experiments</strong></h5>
                 </a>
                 <p class="text-secondary">My music</p>
                 </div>

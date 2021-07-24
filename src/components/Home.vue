@@ -70,7 +70,7 @@
                 <a href="https://soundcloud.com/vincenzo-madaghiele" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
                     <h5><strong>Sound experiments</strong></h5>
                 </a>
-                <p class="text-secondary">My music</p>
+                <p class="text-secondary">Music and noises</p>
                 </div>
             </div>
             <div class="col-12 col-lg-3 col-sm-4 my-2">
@@ -91,7 +91,7 @@
                     <h5><strong>LEAF</strong></h5>
                 </a>
                 <p class="text-secondary">
-                    IoT sensor for air quality measuring in home environment
+                    IoT sensor for air quality measurements in home environment
                 </p>
                 </div>
             </div>
@@ -108,12 +108,12 @@
             </div>
             <div class="col-12 col-lg-3 col-sm-4 my-2">
                 <div class="position-relative pic">
-                <img src="../assets/photos.jpg" class="img-fluid my-3" alt="Responsive image">
-                <a href="https://www.instagram.com/vincenzo_madaghiele/" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
-                    <h5><strong>Pictures</strong></h5>
+                <img src="../assets/maderna_comp.jpg" class="img-fluid my-3" alt="Responsive image">
+                <a href="https://drive.google.com/drive/folders/1Gng3UnDOpNoOQvqQ2V2Clg-GPPZm3d9r?usp=sharing" class="text-dark stretched-link" target="_blank" rel="noopener noreferrer">
+                    <h5><strong>Writings</strong></h5>
                 </a>
                 <p class="text-secondary">
-                    Travel photographs
+                    Things I wrote about music
                 </p>
                 </div>
             </div>

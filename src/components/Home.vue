@@ -113,7 +113,7 @@
                     <h5><strong>Writings</strong></h5>
                 </a>
                 <p class="text-secondary">
-                    Things I wrote about music and technology (in Italian)
+                    Essays about music and technology (in Italian)
                 </p>
                 </div>
             </div>

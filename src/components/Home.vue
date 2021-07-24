@@ -20,13 +20,13 @@
                 <img src="../assets/profile_photo.jpg" class="img-fluid" alt="Responsive image" style="border-radius: 50%">
             </div>
             <div class="col-lg-5 col-sm-4 col-3"></div>
-            <div class="col-md-0 col-1"></div>
-            <div class="col-10">
+            <div class="col-md-0 col-3"></div>
+            <div class="col-md-6">
                 <br>
                 <h3><strong>Vincenzo Madaghiele</strong></h3>
-                <h5 class="text-secondary">[Music / Nature / Code]</h5>
+                <h6 class="text-secondary"> I am a data science and engineering student at EURECOM and PoliTo. My work is at the intersection between engineering, science and humanities, involving system models, algorithmic music and creative coding. I am currently a research intern at the Sound and Music Computing (SMC) group at KTH Stockholm.</h6>
             </div>
-            <div class="col-md-0 col-1"></div>
+            <div class="col-md-0 col-3"></div>
         </div>
         <div id="work">
         <br><br>
@@ -38,7 +38,7 @@
                     <h5><strong>MINGUS</strong></h5>
                     </a>
                     <p class="text-secondary">
-                        Transformer deep neural network for jazz music modeling and generation
+                        Transformer neural network for jazz music modeling and generation
                     </p>
                 </div>
             </div>
@@ -49,7 +49,7 @@
                     <h5><strong>Regression of biodiversity species richness</strong></h5>
                 </a>
                 <p class="text-secondary ">
-                    Measuring the species richness in forests from satellite observations
+                    Measuring species richness in forests from satellite observations
                 </p>
                 </div>
             </div>
@@ -113,7 +113,7 @@
                     <h5><strong>Writings</strong></h5>
                 </a>
                 <p class="text-secondary">
-                    Things I wrote about music
+                    Things I wrote about music and technology (in Italian)
                 </p>
                 </div>
             </div>
